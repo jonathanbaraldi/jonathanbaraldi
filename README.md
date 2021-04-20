@@ -1,7 +1,12 @@
-### Hi there 👋
+### Olá amigo DevOps Ninja o/o/o/ 👋
 
+My name is Jonathan Baraldi, and I'm from Brazil (🇧🇷). I have been working with cloud, AWS, since 2010, and I work and develop technology since my 17 years. I'm working with containers and Kubernetes since 2015, and I love development. I work with infrastructure, software development, my favorite languages are Python and Javascript. And I also love DevOps and Machine Learning. I have my channel on youtube, and also my courses on Udemy for you to check.
 <!--
 **jonathanbaraldi/jonathanbaraldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/jonathanbaraldi)](https://youtube.com/jonathanbaraldi)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/baraldijonathan)](https://twitter.com/baraldijonathan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&li
 
 Here are some ideas to get you started:
 
